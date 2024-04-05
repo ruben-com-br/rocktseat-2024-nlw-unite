@@ -30,7 +30,7 @@
 
 ## 👨‍💻 Projeto 
 
-[📌 Clique aqui para acessar](https://murilopizolito.github.io/NLW-Unite/)
+[📌 Clique aqui para acessar](https://ruben-com-br.github.io/rocktseat-2024-nlw-unite/trilha%20html%2Bcss%2Bjs/)
 
 ## 🔖 Layout
 
